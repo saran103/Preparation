@@ -1,2 +1,2 @@
 # Preparation
-Hello Master file
+This is test file
